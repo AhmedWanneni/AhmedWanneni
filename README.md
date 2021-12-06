@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed Wanneni</h1>
 <h3 align="center">A passionate developer from Tunisia</h3>
 
-[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
-- ✉️ &nbsp;You can shoot me an email at ahmed.wanneni@gmail.com! I'll try to respond as soon as I can.
-- 💬 Ask me about **development and Philosophy 😆**
+- ✉️ &nbsp;Reach out to me at: ahmed.wanneni@gmail.com! I'll try to respond as soon as I can.
+- 💬 Ask me about **Development and Philosophy 😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
