@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Wanneni</h1>
-<h3 align="center">A passionate developer from Tunisia</h3>
+<h3 align="center">Développeur full stack passionné par la réalisation des projets web et mobile.
+Javascript est mon langage préféré de programmation et React mon framework de choix
+mais je suis toujours prêt à apprendre de nouvelles technologies.</h3>
 
 - 📫 How to reach me **ahmed.wanneni@gmail.com**
 
