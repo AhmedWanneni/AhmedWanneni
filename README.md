@@ -7,6 +7,7 @@
 - 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 - ✉️ &nbsp;You can shoot me an email at ahmed.wanneni@gmail.com! I'll try to respond as soon as I can.
+- 💬 Ask me about **System Designs and Philosophy 😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
