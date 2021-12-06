@@ -3,8 +3,6 @@
 Javascript est mon langage préféré de programmation et React mon framework de choix
 mais je suis toujours prêt à apprendre de nouvelles technologies.</h3>
 
-- 📫 How to reach me **ahmed.wanneni@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-wanneni-758a91127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-wanneni-758a91127/" height="30" width="40" /></a>
