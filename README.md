@@ -4,9 +4,9 @@
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ### 👨🏻‍💻 &nbsp;About Me
-- 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
+- 💡 &nbsp;I like to explore new technologies and quick hacks.
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
-- ✉️ &nbsp;Reach out to me at: ahmed.wanneni@gmail.com! I'll try to respond as soon as I can.
+- ✉️ &nbsp;Reach out to me at: ahmed.wanneni@gmail.com!
 - 💬 Ask me about **Development and Philosophy 😆**
 
 <h3 align="left">Connect with me:</h3>
